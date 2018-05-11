@@ -1,8 +1,8 @@
-# Python 101 IRE 2017
+# Python 1 IRE 2018
 
-These files will be used in the Python 101 session at IRE 2017. They are set up with Python 3 and Jupyter notebook for Python 3. But they should work on Python 2.7x as well.
+These files will be used in the Python 1 session at IRE 2018. They are set up with Python 3 and Jupyter notebook for Python 3.
 
-To use these, though, you'll want to install [Jupyter notebook](http://jupyter.org/) from the command line.
+To use these at home you'll want to install [Jupyter notebook](http://jupyter.org/) from the command line.
 
 ## Resources, etc.
 
@@ -15,7 +15,7 @@ Some general concepts:
 * [Join Python Journos email list](https://groups.google.com/forum/#!forum/pythonjournos)
 * Practice. Try [Learn Python the Hard Way](https://learnpythonthehardway.org/) or the Py app for your phone.
 * Work on a project. Start with something simple, like a program to download and open a file.
-* You could still take some time to join and catch up on Ben Welsh's [Python for Data Journalists](https://journalismcourses.org/) online.
+* Ben Welsh has [great Django](http://first-django-admin.readthedocs.io/en/latest/) and [data journalism](http://www.firstpythonnotebook.org/) tutorials online.
 * Work with others. Look for meetups in your area. My fave is [Girl Develop It](https://www.girldevelopit.com/) – and they welcome guys, too.
 
 
